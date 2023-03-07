@@ -28,11 +28,7 @@ def decode(password):
 
 
 def menu():
-    print("Menu")
-    print("-------------")
-    print("1. Encode")
-    print("2. Decode")
-    print("3. Quit")
+    print("Menu", "-------------", "1. Encode", "2. Decode", "3. Quit")
 
 
 def main():
